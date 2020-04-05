@@ -1,5 +1,6 @@
 package object;
 
+
 public class Chair {
     public static void getHeight(int chairHeight)
     {
